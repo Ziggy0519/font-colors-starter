@@ -11,12 +11,12 @@ section {
 
 h1 {
   font-size: 2em;
-  color: #7b7d70
+  color: #7b7d70;
 }
 
 h2 {
   font-size: 1.5em;
-  color: #4eafb8
+  color: #4eafb8;
 }
 
 p {
@@ -29,20 +29,23 @@ p {
 	body {
     width: 100%;
     margin: auto;
-  }
+    }
+
   h1 {
     font-size: 4em;
     color: #02cbd2;
-  }
+    }
   
   h2 {
     font-size: 3.5em;
     color: #fcc02a;
-  }
+    }
   
   p {
     font-size: 20px;
     color: #7b8f8e;
+    }
+}
 
     /* ----------- Monitors larger than 1200px wide ----------- */
 @media (min-width: 1200px) {
@@ -53,15 +56,16 @@ p {
 
 h1 {
   font-size: 4em;
-  color: #76e4b61;
-}
+  color: #6e4b61;
+  }
 
 h2 {
   font-size: 3.5em;
   color: #cabd61;
-}
+  }
 
 p {
   font-size: 16px;
   color: #c19e74;
   }
+}
